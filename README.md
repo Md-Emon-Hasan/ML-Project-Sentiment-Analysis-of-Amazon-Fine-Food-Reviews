@@ -2,7 +2,7 @@
 
 Welcome to the **Sentiment Analysis of Amazon Fine Food Reviews** repository! This project leverages natural language processing (NLP) and machine learning techniques to analyze customer sentiments from Amazon Fine Food reviews. Understanding customer feedback can help businesses improve their products and services, and this analysis provides actionable insights.
 
-![Capture](https://github.com/user-attachments/assets/d60dee57-2b7c-4165-8b35-6132de5468e1)
+![Screenshot (3)](https://github.com/user-attachments/assets/112dae2b-a720-4ff7-b346-ad1dbb25ab36)
 
 ## 📋 Contents
 
