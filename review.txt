@@ -1,0 +1,21 @@
+Here are 5 positive, 5 neutral, and 5 negative product reviews:
+### **Positive Reviews:**
+1. **"I absolutely love this product! It works perfectly and exceeded my expectations. Worth every penny!"**
+2. **"Amazing quality! The features are fantastic, and it has made my life so much easier. Highly recommend!"**
+3. "The product is alright. It gets the job done, but there’s nothing exceptional about it. Works as expected but lacks any wow factor."
+4. **"Exceeded my expectations. The product is sturdy, and it works exactly as advertised. Great value for money!"**
+5. **"Incredible product! It’s sleek, functional, and has all the features I need. I’d buy it again in a heartbeat."**
+
+### **Neutral Reviews:**
+1. **"The product is okay. It works, but there are some areas that could be improved, like the instructions and setup process."**
+2. **"It's not bad, but not great either. It does the job, but I expected a bit more based on the reviews."**
+3. **"Average product. It does what it’s supposed to, but there’s nothing special about it. I’m neither impressed nor disappointed."**
+4. **"It’s decent, but I’ve had some better options. If you're looking for something basic, this will do."**
+5. **"Nothing remarkable about it. It works fine, but I don’t see why it’s so highly rated. It's just average in my opinion."**
+
+### **Negative Reviews:**
+1. **"Very disappointing. The product broke after only a few uses. Poor quality and not worth the price."**
+2. **"I’m not happy with this purchase. It didn’t work as expected, and I’ve had issues with it since day one."**
+3. **"The product stopped working after a few days. Terrible build quality and customer service was no help at all."**
+4. **"Not impressed. It looks cheap, feels cheap, and doesn’t perform well. Definitely not worth the money."**
+5. **"I regret buying this. It broke down way too quickly, and the performance was nowhere near what was advertised."**

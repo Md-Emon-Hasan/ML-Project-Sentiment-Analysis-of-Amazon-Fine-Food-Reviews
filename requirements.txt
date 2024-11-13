@@ -2,5 +2,5 @@ pytest
 numpy
 scikit-learn
 gunicorn
-pytest
 flask
+nltk

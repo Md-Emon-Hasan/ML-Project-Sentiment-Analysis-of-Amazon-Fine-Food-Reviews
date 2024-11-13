@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+body {
+    background-image: url('https://colibriwp.com/blog/wp-content/uploads/2022/04/pexels-shotkit-5387714.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.main-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    width: 100%;
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.4);
+    animation: fadeIn 1.5s ease-in-out;
+    text-align: center;
+}
+
+h1, h2 {
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    display: block;
+    text-align: center;
+}
+
+textarea {
+    width: 60%;
+    border-radius: 10px;
+    border: 2px solid #ff7f50;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: aliceblue;
+    padding: 10px;
+    font-size: 1em;
+    transition: box-shadow 0.3s, transform 0.3s;
+    margin: 0 auto;
+    display: block;
+    resize: vertical;
+}
+
+textarea:focus {
+    box-shadow: 0 0 10px #ff7f50;
+    transform: scale(1.02);
+    outline: none;
+}
+
+.btn-primary {
+    background-color: #ff7f50;
+    border-color: #ff7f50;
+    border-radius: 50px;
+    font-size: 1.1em;
+    padding: 10px 20px;
+    transition: transform 0.3s, background-color 0.3s;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.btn-primary:hover {
+    transform: scale(1.05);
+    background-color: #ff6347;
+}
+
+.result-box {
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    box-shadow: 0px 4px 15px rgba(247, 247, 247, 0.9);
+    animation: slideIn 1s ease-in-out;
+}
+
+.footer {
+    text-align: center;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    font-size: 0.9em;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.footer a {
+    color: #ff7f50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideIn {
+    from { opacity: 0; transform: translateY(50px); }
+    to { opacity: 1; transform: translateY(0); }
+}
